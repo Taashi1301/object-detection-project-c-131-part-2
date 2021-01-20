@@ -1,0 +1,14 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+.heading{
+    background-color: greenyellow;
+    color:grey;
+    border: 2px solid grey;
+}
+canvas{
+   border: 2px solid black;
+   box-shadow: 5px 5px 5px silver;
+   margin-top: 150px; 
+}

@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to right bottom, #4a374a, #4c5c8a, #008cbe, #00bcc4, #16e598);
+    font-family: 'Rubik', sans-serif;
+}
+.heading{
+    background-color: green;
+    border: 2px solid paleturquoise;
+    width: 80%;
+    height: 20%;
+    font-size: 25px;
+    letter-spacing: 7.5px;
+    vertical-align: center;
+    float: top;
+    padding-top: 10px;
+    color: paleturquoise;
+}
+.buttons{
+    background-color: paleturquoise;
+    color: green;
+    border-radius: 20px;
+    margin:30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid green;
+}
